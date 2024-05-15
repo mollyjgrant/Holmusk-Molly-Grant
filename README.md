@@ -1,2 +1,2 @@
-# Holmusk-Molly-Grant
-Take home technical challenge for interview at Holmusk
+# Technical-interview-Molly-Grant
+Take home technical challenge for a technical interview at Holmusk
